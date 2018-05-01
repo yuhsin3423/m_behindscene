@@ -137,13 +137,14 @@ div.newvideo video{
 
 
 .imggg img{
-  max-width: 60%;
+  max-width: 80%;
   height: auto;
   margin: 30px;
-  float: left;
+
   border: 10px solid #fff;
   position: relative;
   text-align: center;
+
 }
 
 
